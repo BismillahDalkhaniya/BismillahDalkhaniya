@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hi, I'm Bismillah Dalkhaniya 👋
 
-<!--
-**BismillahDalkhaniya/BismillahDalkhaniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Economics Graduate | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm passionate about exploring data, understanding business problems, and turning information into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- 🎓 Background in Economics
+- 📊 Interested in Data Analytics and Business  Intelligence
+- 💻 Learning Python, SQL and Power BI
+- 📈 Building practical projects in Data Analytics and Machine Learning
+- 🌱 Continuously learning and developing my technical skills
+
+### Technical Skills
+
+- **Programming:** Python, SQL
+- **Data Analysis:** Pandas, NumPy, Excel
+- **Visualization:** Power BI, Matplotlib, Seaborn
+- **Statistics:** Descriptive Statistics, Hypothesis Testing
+- **Other Interests:** Machine Learning, Generative AI
+
+### Featured Projects
+
+- Supply Chain Analysis – Python & Power BI
+- Employee Performance Prediction – Machine Learning
+- Healthcare Management – SQL
+- Women's Clothing Brand – AI Customer Review Analysis
+
+### Connect With Me
+
+- LinkedIn: [www.linkedin.com/in/bismillah-dalkhaniya-95008a2b2]
